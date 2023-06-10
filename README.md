@@ -11,7 +11,10 @@ Insertion Sort
 Improved Bubble Sort
 Improved Selection Sort
 Improved Insertion Sort
-Cada algoritmo é implementado como uma função separada. Além disso, o projeto inclui uma função measure_time para medir o tempo de execução de cada algoritmo e uma função plot_times (atualmente comentada) para visualizar o desempenho dos algoritmos.
+
+Cada algoritmo é implementado como uma função separada. Além disso, o projeto inclui uma função measure_time para medir o tempo de execução de cada algoritmo, uma outra função plot_times (atualmente comentada) para visualizar o desempenho dos algoritmos, usandoa ela gera um gráfico para melhor compreensão e a função bisect_right é usada para encontrar a posição na lista ordenada onde um elemento deve ser inserido para que a lista se mantenha lista ordenada.
+
+A 
 
 Instalação:
 Este projeto requer Python e a biblioteca matplotlib. Você pode instalar o matplotlib com o seguinte comando:
