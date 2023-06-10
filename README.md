@@ -18,9 +18,13 @@ A
 
 Instalação:
 Este projeto requer Python e a biblioteca matplotlib. Você pode instalar o matplotlib com o seguinte comando:
-
+```bash```
 pip install matplotlib
+
 
 Uso:
 
 Para usar este projeto, você pode clonar o repositório e executar o arquivo Python. O script irá gerar uma lista aleatória de números e, em seguida, classificar essa lista usando cada um dos algoritmos de classificação. O tempo de execução de cada algoritmo será impresso no console.
+
+
+
