@@ -1,7 +1,7 @@
 from bisect import bisect_right
 import time
 import random
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # pip install matplotlib
 
 
 # Bubble Sort
