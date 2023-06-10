@@ -18,8 +18,8 @@ A
 
 Instalação:
 Este projeto requer Python e a biblioteca matplotlib. Você pode instalar o matplotlib com o seguinte comando:
-```bash```
-pip install matplotlib
+```pip install matplotlib```
+
 
 
 Uso:
